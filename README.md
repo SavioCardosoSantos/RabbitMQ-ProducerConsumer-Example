@@ -83,7 +83,7 @@ Confira no Docker Desktop se o container RabbitMQ está rodando corretamente:
 
 ![Container RabbitMQ rodando no Docker Desktop](./images/docker-container.jpeg)
 
-- Verifique também as imagens baixadas no Docker Desktop:
+Verifique também as imagens baixadas no Docker Desktop:
 
 ![Imagens Docker Desktop](./images/docker-images.jpeg)
 
