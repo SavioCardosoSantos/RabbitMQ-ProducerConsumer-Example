@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|c:\\users\\savio\\source\\repos\\apirabbitmq\\apirabbitmq\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|solutionrelative:apirabbitmq\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BB92B5-6579-4131-AA9B-4E19303E51C6}|ApiRabbitMQ.ConsoleApp\\ApiRabbitMQ.ConsoleApp.csproj|c:\\users\\savio\\source\\repos\\apirabbitmq\\apirabbitmq.consoleapp\\apirabbitmq.consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{71BB92B5-6579-4131-AA9B-4E19303E51C6}|ApiRabbitMQ.ConsoleApp\\ApiRabbitMQ.ConsoleApp.csproj|solutionrelative:apirabbitmq.consoleapp\\apirabbitmq.consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|c:\\users\\savio\\source\\repos\\apirabbitmq\\apirabbitmq\\apirabbitmq.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|solutionrelative:apirabbitmq\\apirabbitmq.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BB92B5-6579-4131-AA9B-4E19303E51C6}|ApiRabbitMQ.ConsoleApp\\ApiRabbitMQ.ConsoleApp.csproj|c:\\users\\savio\\source\\repos\\apirabbitmq\\apirabbitmq.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BB92B5-6579-4131-AA9B-4E19303E51C6}|ApiRabbitMQ.ConsoleApp\\ApiRabbitMQ.ConsoleApp.csproj|solutionrelative:apirabbitmq.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|c:\\users\\savio\\source\\repos\\apirabbitmq\\apirabbitmq\\rabbitmq\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|solutionrelative:apirabbitmq\\rabbitmq\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|c:\\users\\savio\\source\\repos\\apirabbitmq\\apirabbitmq\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|solutionrelative:apirabbitmq\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|c:\\users\\savio\\source\\repos\\apirabbitmq\\apirabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|solutionrelative:apirabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|c:\\users\\savio\\source\\repos\\apirabbitmq\\apirabbitmq\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|solutionrelative:apirabbitmq\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|c:\\users\\savio\\source\\repos\\apirabbitmq\\apirabbitmq\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|solutionrelative:apirabbitmq\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|c:\\users\\savio\\source\\repos\\apirabbitmq\\apirabbitmq\\models\\dtos\\product\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|solutionrelative:apirabbitmq\\models\\dtos\\product\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|c:\\users\\savio\\source\\repos\\apirabbitmq\\apirabbitmq\\models\\dtos\\product\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|solutionrelative:apirabbitmq\\models\\dtos\\product\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|c:\\users\\savio\\source\\repos\\apirabbitmq\\apirabbitmq\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66067D24-51A7-4D70-9D72-7609227BC51C}|ApiRabbitMQ\\ApiRabbitMQ.csproj|solutionrelative:apirabbitmq\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiRabbitMQ\\appsettings.json",
+              "ToolTip": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\appsettings.json",
+              "RelativeToolTip": "ApiRabbitMQ\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T19:20:01.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiRabbitMQ.ConsoleApp",
+              "DocumentMoniker": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ.ConsoleApp\\ApiRabbitMQ.ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "ApiRabbitMQ.ConsoleApp\\ApiRabbitMQ.ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ.ConsoleApp\\ApiRabbitMQ.ConsoleApp.csproj",
+              "RelativeToolTip": "ApiRabbitMQ.ConsoleApp\\ApiRabbitMQ.ConsoleApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T19:16:07.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiRabbitMQ",
+              "DocumentMoniker": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\ApiRabbitMQ.csproj",
+              "RelativeDocumentMoniker": "ApiRabbitMQ\\ApiRabbitMQ.csproj",
+              "ToolTip": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\ApiRabbitMQ.csproj",
+              "RelativeToolTip": "ApiRabbitMQ\\ApiRabbitMQ.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T19:15:58.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\Program.cs",
+              "RelativeDocumentMoniker": "ApiRabbitMQ\\Program.cs",
+              "ToolTip": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\Program.cs",
+              "RelativeToolTip": "ApiRabbitMQ\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:10:33.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMQProducer.cs",
+              "DocumentMoniker": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\RabbitMQ\\RabbitMQProducer.cs",
+              "RelativeDocumentMoniker": "ApiRabbitMQ\\RabbitMQ\\RabbitMQProducer.cs",
+              "ToolTip": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\RabbitMQ\\RabbitMQProducer.cs",
+              "RelativeToolTip": "ApiRabbitMQ\\RabbitMQ\\RabbitMQProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:09:46.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ApiRabbitMQ.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ApiRabbitMQ.ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:33:15.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ApiRabbitMQ\\Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "ApiRabbitMQ\\Models\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:23:20.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\Models\\DTOs\\Product\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "ApiRabbitMQ\\Models\\DTOs\\Product\\ProductResponse.cs",
+              "ToolTip": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\Models\\DTOs\\Product\\ProductResponse.cs",
+              "RelativeToolTip": "ApiRabbitMQ\\Models\\DTOs\\Product\\ProductResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:23:07.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\Models\\DTOs\\Product\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "ApiRabbitMQ\\Models\\DTOs\\Product\\ProductRequest.cs",
+              "ToolTip": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\Models\\DTOs\\Product\\ProductRequest.cs",
+              "RelativeToolTip": "ApiRabbitMQ\\Models\\DTOs\\Product\\ProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:22:58.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ApiRabbitMQ\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\Services\\ProductService.cs",
+              "RelativeToolTip": "ApiRabbitMQ\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:46:40.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ApiRabbitMQ\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ApiRabbitMQ\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:45:52.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ApiRabbitMQ\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Savio\\source\\repos\\ApiRabbitMQ\\ApiRabbitMQ\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ApiRabbitMQ\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:41:57.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
