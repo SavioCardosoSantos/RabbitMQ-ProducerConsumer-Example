@@ -81,11 +81,11 @@ docker run --rm -it -p 15672:15672 -p 5672:5672 rabbitmq:3-management
 
 Confira no Docker Desktop se o container RabbitMQ está rodando corretamente:
 
-![Container RabbitMQ rodando no Docker Desktop](./images/docker-container.png)
+![Container RabbitMQ rodando no Docker Desktop](./images/docker-container.jpeg)
 
 - Verifique também as imagens baixadas no Docker Desktop:
 
-![Imagens Docker Desktop](./images/docker-images.png)
+![Imagens Docker Desktop](./images/docker-images.jpeg)
 
 - A interface de gerenciamento do RabbitMQ estará disponível em [http://localhost:15672](http://localhost:15672)
 - Usuário padrão: `guest`
@@ -138,7 +138,7 @@ https://localhost:<porta>/swagger
 }
 ```
 
-![Requisição POST no Swagger](./images/swagger-post.png)
+![Requisição POST no Swagger](./images/swagger-post.jpeg)
 
 ---
 
@@ -150,7 +150,7 @@ https://localhost:<porta>/swagger
 Product message received: {"Id":6,"Name":"teste produto fila","Description":"teste","Stock":100}
 ```
 
-![Mensagem recebida no console app](./images/console-message.png)
+![Mensagem recebida no console app](./images/console-message.jpeg)
 
 ---
 
@@ -159,4 +159,4 @@ Product message received: {"Id":6,"Name":"teste produto fila","Description":"tes
 - Acesse o painel de administração do RabbitMQ no navegador:
 - Na aba **Queues**, selecione a fila `product` para visualizar as mensagens enviadas.
 
-![Mensagem na fila product no painel do RabbitMQ](./images/rabbitmq-queue.png)
+![Mensagem na fila product no painel do RabbitMQ](./images/rabbitmq-queue.jpeg)
